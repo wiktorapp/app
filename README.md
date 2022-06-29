@@ -1,8 +1,8 @@
 <p>
-  <a href="https://thewiktor.com/" target="_blank">
+  <a href="https://thewiktor.com/#gh-light-mode-only" target="_blank">
     <img src="./.github/logo-light.svg" alt="Wiktor Logo" width="350" height="70">
   </a>
-  <a href="https://thewiktor.com/" target="_blank">
+  <a href="https://thewiktor.com/#gh-dark-mode-only" target="_blank">
     <img src="./.github/logo-dark.svg" alt="Wiktor Logo" width="350" height="70">
   </a>
 </p>
